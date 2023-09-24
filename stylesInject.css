@@ -1,0 +1,15 @@
+.inactive{
+    text-decoration: line-through;
+  }
+
+.safeDangerChar::after{
+  content: ' - Safe-Link: Has a few dangorous URL chacters but is safe due to (https://) protocol.'
+}
+
+.http::after{
+  content:' - Safe-Link: Avoid entering private information due to (http://) protocol.'
+}
+
+.fairlyUnsafe::after{
+  content: ' - Safe-Link: Has a few dangorous URL chacters but is safe due to (https://) protocol.'
+}
