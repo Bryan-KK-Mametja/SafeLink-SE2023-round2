@@ -11,6 +11,5 @@ Features
 🟣 Purple: Potentially risky
 
 🔴 Red: Dangerous link
--Real-Time Protection: Checks links dynamically as users browse the web.
--Minimal Performance Impact: Lightweight and efficient, ensuring smooth browsing.
--User Alerts: Displays warnings for high-risk links.
+
+Real-Time Protection: Checks links dynamically as users browse the web. Minimal Performance Impact: Lightweight and efficient, ensuring smooth browsing. User Alerts: Displays warnings for high-risk links.
